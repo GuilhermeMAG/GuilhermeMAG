@@ -18,7 +18,7 @@
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GuilhermeMAG&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />  
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.14.0/devicon.min.css"> 
   
 ### Contatos:
 
