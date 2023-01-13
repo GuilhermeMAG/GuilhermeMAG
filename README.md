@@ -11,11 +11,9 @@
 - 😄 Pronomes: Guilherme, Gui, Mag.
 - ⚡ Curiosidade: Sou técnico desde os 16 anos, envolvido com técnologia desde os 18 anos quando servi o exército na telemática do quartel, entrei pra área de desenvolvimento em outubro de 2020, quando comecei trabalhar em uma software house como analista desenvolvedor, em home office, sou analista de sistemas formado, e estudando engenharia de software.
 
-![Guilherme's GitHub stats](https://github-readme-stats.vercel.app/api?username=GuilhermeMAG&show_icons=true&theme=radical)
 
 <div>
 <a href="https://github.com/GuilhermeMAG">
-  ![Guilherme's GitHub stats](https://github-readme-stats.vercel.app/api?username=GuilhermeMAG&show_icons=true&theme=radical)
 <img height="180em" src="http://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeMAG&layout=compact&langs_count=7&theme=dracula"/>
 <img height="180em" src="http://github-readme-stats.vercel.app/api?username=GuilhermeMAG&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
