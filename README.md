@@ -2,14 +2,31 @@
 ### Bem vindo ao meu perfil GitHub 👋
 
 
-- 🔭 Atualmente estou trabalhando em Node.js
-- 🌱 Atualmente estou aprendendo Docker, Docker Swarm e Kubernetes.
-- 👯 Estou procurando colaborar em node.js
-- 🤔 Estou procurando ajuda com python.
-- 💬 Pergunte-me sobre qualquer coisa relacionada a técnologia.
-- 📫 Como entrar em contato comigo: (11) 95146-4881
-- 😄 Pronomes: Guilherme, Gui, Mag.
-- ⚡ Curiosidade: Sou técnico desde os 16 anos, envolvido com técnologia desde os 18 anos quando servi o exército na telemática do quartel, entrei pra área de desenvolvimento em outubro de 2020, quando comecei trabalhar em uma software house como analista desenvolvedor, em home office, sou analista de sistemas formado, e estudando engenharia de software.
+🔭 Atualmente estou trabalhando com desenvolvimento e manutenção de sistemas de manufatura, em uma multinacional no ramo automotivo, também atuo como gestor de tráfego e web designer freelancer.
+🌱 Atualmente estou aprendendo Docker Swarm e Kubernetes.
+👯 Estou procurando colaborar em Node.js
+🤔 Estou procurando ajuda com React.
+💬 Pergunte-me sobre qualquer coisa relacionada a tecnologia.
+📫 Como entrar em contato comigo: (11) 95146-4881 | g.casagrande@uni9.edu.br | guihub.com.br
+😄 Pronomes: Guilherme, Gui, Mag.
+⚡ Curiosidade: Sou técnico desde os 16 anos, envolvido com técnologia desde os 18 anos quando servi o exército na telemática do quartel, entrei pra área de desenvolvimento em outubro de 2020, quando comecei trabalhar em uma software house (Grátidão eterna aos envolvidos) como analista desenvolvedor, em home office, atualmente sou analista de sistemas formado, e estudando Cloud Computing.
+
+Amplo conhecimento e domínio das linguágems, tecnologias, ferramentas e conceitos:
+
+- JavaScript - Node.js - Bootstrap -
+- HTML - CSS - SQL Server - MySql -
+- MongoDb - Docker - Nginx - React -
+- Man-it - Low Code - Kepware -
+- Reporting Services - Git - GitHub -
+- PowerBI - Service Now - ZPL - VPS -
+- Windows Server - .NET - 
+- Kanban - Planing poker - 
+- Pm2 - Nginx - EC2 - RDS -
+- Sistemas de Manufatura e Logística - 
+
+Para dúvidas ou sugestões: (11) 95146-4881, Ficarei feliz com seu contato.
+
+Em desenvolvimento: https://guihub.com.br/
 
   
 ### Contatos:
