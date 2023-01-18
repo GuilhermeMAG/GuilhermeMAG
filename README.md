@@ -15,7 +15,7 @@ Amplo conhecimento e domínio das linguágems, tecnologias, ferramentas e concei
 
 - JavaScript - Node.js - Bootstrap -
 - HTML - CSS - SQL Server - MySql -
-- MongoDb - Docker - Nginx - React -
+- MongoDb - Docker - React -
 - Man-it - Low Code - Kepware -
 - Reporting Services - Git - GitHub -
 - PowerBI - Service Now - ZPL - VPS -
