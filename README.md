@@ -16,7 +16,7 @@
 
 😄 Pronomes: Guilherme, Gui, Mag.
 
-⚡ Curiosidade: Sou técnico desde os 16 anos, envolvido com técnologia desde os 18 anos quando servi o exército na telemática do quartel, entrei pra área de desenvolvimento em outubro de 2020, quando comecei trabalhar em uma software house (Grátidão eterna aos envolvidos) como analista desenvolvedor, em home office, atualmente sou analista de sistemas formado, e estudando Cloud Computing.
+⚡ Curiosidade: Sou técnico desde os 16 anos, envolvido com técnologia desde os 18 anos quando servi o exército na telemática do quartel, entrei pra área de desenvolvimento em outubro de 2020, quando comecei trabalhar em uma software house (Grátidão eterna aos envolvidos) como analista desenvolvedor, em home office, atualmente sou analista de sistemas formado, estudando Cloud Computing e trabalho como programador sql em uma multinacional no ramo automotivo.
 
 Amplo conhecimento e domínio das linguágems, tecnologias, ferramentas e conceitos:
 
