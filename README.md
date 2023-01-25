@@ -20,16 +20,11 @@
 
 Amplo conhecimento e domínio das linguágems, tecnologias, ferramentas e conceitos:
 
-- JavaScript - Node.js - Bootstrap -
-- HTML - CSS - SQL Server - MySql -
-- MongoDb - Docker - React -
-- Man-it - Low Code - Kepware -
-- Reporting Services - Git - GitHub -
-- PowerBI - Service Now - ZPL - VPS -
-- Windows Server - .NET - 
-- Kanban - Planing poker - 
-- Pm2 - Nginx - EC2 - RDS -
-- Sistemas de Manufatura e Logística - 
+- JavaScript - Node.js - Bootstrap - HTML - CSS - SQL Server - MySql -
+- MongoDb - Docker - Docker Swarm - Kubernetes - React - Man-it -
+- Low Code - Kepware - Reporting Services - Git - GitHub - GitHub Actions -
+- Service Now - ZPL - VPS - Windows Server - .NET - Kanban - Planing poker - 
+- Pm2 - Nginx - AWS EC2 - AWS RDS - Sistemas de Manufatura e Logística - 
 
 Para dúvidas ou sugestões: (11) 95146-4881, Ficarei feliz com seu contato.
 
