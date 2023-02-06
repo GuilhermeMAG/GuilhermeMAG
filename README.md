@@ -4,7 +4,7 @@
 
 🔭 Atualmente estou trabalhando com desenvolvimento e manutenção de sistemas de manufatura, em uma multinacional no ramo automotivo, também atuo como gestor de tráfego e web designer freelancer.
 
-🌱 Atualmente estou aprendendo Docker Swarm e Kubernetes.
+🌱 Atualmente estou aprendendo AWS.
 
 👯 Estou procurando colaborar em Node.js
 
