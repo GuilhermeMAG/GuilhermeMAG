@@ -24,7 +24,7 @@ Amplo conhecimento e domínio das linguágems, tecnologias, ferramentas e concei
 - MongoDb - Docker - Docker Swarm - Kubernetes - React - Man-it -
 - Low Code - Kepware - Reporting Services - Git - GitHub - GitHub Actions -
 - Service Now - ZPL - VPS - Windows Server - .NET - Kanban - Planing poker - 
-- Pm2 - Nginx - AWS EC2 - AWS RDS - AWS S# - AWS IAM - Sistemas de Manufatura e Logística - 
+- Pm2 - Nginx - AWS EC2 - AWS RDS - AWS S3 - AWS IAM - Sistemas de Manufatura e Logística - 
 
 Para dúvidas ou sugestões: (11) 95146-4881, Ficarei feliz com seu contato.
 
