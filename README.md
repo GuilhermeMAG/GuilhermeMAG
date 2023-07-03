@@ -2,7 +2,7 @@
 ### Bem vindo ao meu perfil GitHub 👋
 
 
-🔭 Atualmente estou trabalhando com desenvolvimento e manutenção de sistemas de manufatura, em uma multinacional no ramo automotivo, também atuo como gestor de tráfego e web designer freelancer.
+🔭 Atualmente estou trabalhando com desenvolvimento e manutenção de sistemas de fretamento.
 
 🌱 Atualmente estou aprendendo AWS.
 
