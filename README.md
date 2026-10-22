@@ -183,7 +183,7 @@ Possuo sólida experiência em todo o ciclo de vida de produtos digitais — des
         <h4>🎟️ GuiHub EventPlatform — Gestão de Eventos</h4>
         <p>Aplicação web full-stack desenvolvida do zero para criação, divulgação, credenciamento e gestão de eventos corporativos em alta escala.</p>
         <ul>
-          <li><b>Destaque:</b> Em produção contínua com demo acessível em <a href="https://guihub-events-web-chi.vercel.app/" target="_blank">guihub-events-web-chi.vercel.app</a>.</li>
+          <li><b>Arquitetura:</b> Modelagem modular de componentes, validação estrita de formulários e emissão dinâmica de ingressos.</li>
           <li><b>Stack:</b> React, Next.js, APIs transacionais e emissão de ingressos.</li>
         </ul>
       </td>
