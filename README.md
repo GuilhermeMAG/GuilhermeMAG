@@ -2,7 +2,7 @@
 
   <!-- BANNER PRINCIPAL COM GRADIENTE E IDENTIDADE VISUAL -->
   <a href="http://guihub.com.br/">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,2,9,20&height=220&section=header&text=Guilherme%20Casagrande&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Tech%20Lead%20%E2%80%A2%20AI%20%26%20Full-Stack%20Architect%20%E2%80%A2%20Software%20Engineer&descSize=19&descAlignY=62&descColor=00f2fe" width="100%" alt="Guilherme Casagrande Banner"/>
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,2,9,20&height=220&section=header&text=Guilherme%20Casagrande&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Tech%20Lead%20%E2%80%A2%20AI%20%26%20Full-Stack%20Architect%20%E2%80%A2%20Software%20Engineer&descSize=19&descAlignY=62&descColor=00f2fe" width="100%" alt="Guilherme Casagrande"/>
   </a>
 
   <!-- TYPING SVG DINÂMICO INTERATIVO -->
