@@ -154,18 +154,42 @@ Possuo sólida experiência em todo o ciclo de vida de produtos digitais — des
     </tr>
     <tr>
       <td width="50%">
-        <h4>📍 T3 Fretes Tracker — Telemetria & Rastreamento em Tempo Real</h4>
-        <p>Sistema de rastreamento e telemetria para logística com foco em baixa latência e atualização de posições em tempo real.</p>
+        <h4>🌐 NLogika — Portal SaaS Core Platform (Monorepo)</h4>
+        <p>Application Shell e chassi arquitetural básico para desenvolvimento e acoplamento de todos os módulos SaaS corporativos da empresa.</p>
         <ul>
-          <li><b>Stack:</b> TypeScript, Next.js, APIs de geolocalização e streams de dados reativos.</li>
+          <li><b>Papel:</b> CTO & Liderança Técnica.</li>
+          <li><b>Conformidade & Isolamento:</b> Segurança absoluta de dados e isolamento estrito de tenants para total conformidade com a LGPD.</li>
+          <li><b>Arquitetura:</b> Monorepo escalável, reuso de código e governança de custos em nuvem.</li>
+        </ul>
+        <p>
+          <img src="https://img.shields.io/badge/Papel-CTO%20%7C%20Lideran%C3%A7a-00f2fe?style=flat-square" alt="CTO" />
+          <img src="https://img.shields.io/badge/Stack-Monorepo%20%7C%20Multi--Tenant%20%7C%20LGPD-7928ca?style=flat-square" alt="Stack" />
+        </p>
+      </td>
+      <td width="50%">
+        <h4>📞 GCRadius — Discador Automático & CRM SaaS (PWA)</h4>
+        <p>Plataforma B2B instalável (Progressive Web App) para prospecção acelerada, gestão ágil de leads e discagem rápida automatizada.</p>
+        <ul>
+          <li><b>Recursos:</b> Funil de vendas reativo em Kanban, relatórios de telemetria e análise de produtividade de times comerciais.</li>
+          <li><b>Interface:</b> PWA ultrarrápido com armazenamento local e operação otimizada.</li>
+        </ul>
+        <p>
+          <img src="https://img.shields.io/badge/Tipo-SaaS%20CRM%20%7C%20PWA-38ef7d?style=flat-square" alt="PWA" />
+        </p>
+      </td>
+    </tr>
+    <tr>
+      <td width="50%">
+        <h4>🎟️ GuiHub EventPlatform — Gestão de Eventos</h4>
+        <p>Aplicação web full-stack desenvolvida do zero para criação, divulgação, credenciamento e gestão de eventos corporativos em alta escala.</p>
+        <ul>
+          <li><b>Destaque:</b> Em produção contínua com demo acessível em <a href="https://guihub-events-web-chi.vercel.app/" target="_blank">guihub-events-web-chi.vercel.app</a>.</li>
+          <li><b>Stack:</b> React, Next.js, APIs transacionais e emissão de ingressos.</li>
         </ul>
       </td>
       <td width="50%">
-        <h4>🌐 GuiHub Solutions & Eventos</h4>
-        <p>Portal institucional e plataforma de soluções digitais e automação corporativa (<a href="http://guihub.com.br/">guihub.com.br</a>).</p>
-        <ul>
-          <li><b>Stack:</b> React, Next.js, integrações de APIs e pipelines de automação.</li>
-        </ul>
+        <h4>📍 T3 Fretes Tracker — Telemetria em Tempo Real</h4>
+        <p>Sistema orientado a eventos para telemetria logística, mapas reativos e atualização de coordenadas em tempo real com TypeScript e Next.js.</p>
       </td>
     </tr>
   </table>
