@@ -7,7 +7,7 @@
 
   <!-- TYPING SVG DINÂMICO INTERATIVO -->
   <a href="https://github.com/GuilhermeMAG">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=2800&pause=900&color=00F2FE&center=true&vCenter=true&width=780&lines=Tech+Lead+%26+Software+Architect;Engenheiro+de+Agentes+Aut%C3%B4nomos+%26+Sistemas+de+IA;Arquitetura+SaaS+Enterprise+de+Alta+Disponibilidade;Full-Stack%3A+Node.js+%E2%80%A2+TypeScript+%E2%80%A2+React+%E2%80%A2+GraphQL;Otimiza%C3%A7%C3%A3o+de+Performance+%E2%80%A2+C%2B%2B%2FRust+%E2%80%A2+CodeGraph" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=2800&pause=900&color=00F2FE&center=true&vCenter=true&width=780&lines=Tech+Lead+%26+Software+Architect;Engenharia+de+Agentes+Aut%C3%B4nomos+%26+Sistemas+de+IA;Arquitetura+SaaS+Enterprise+de+Alta+Disponibilidade;Full-Stack%3A+Node.js+%E2%80%A2+TypeScript+%E2%80%A2+React+%E2%80%A2+GraphQL;Otimiza%C3%A7%C3%A3o+de+Performance+%E2%80%A2+Economia+de+Recursos" alt="Typing SVG" />
   </a>
 
   <br/><br/>
@@ -111,22 +111,25 @@ Possuo sólida experiência em todo o ciclo de vida de produtos digitais — des
 
 ---
 
-### 🚀 Vitrine de Projetos & Engenharia
+### 🚀 Vitrine de Projetos & Soluções Autorais
+
+> *Projetos desenvolvidos, arquitetados e liderados por mim, abrangendo soluções corporativas privadas, arquitetura SaaS e produtos digitais:*
 
 <details open>
-  <summary><b>🏢 Enterprise Solutions & Plataformas SaaS</b> <i>(Clique para expandir/recolher)</i></summary>
+  <summary><b>🏢 Plataformas Corporativas & Soluções SaaS</b> <i>(Clique para expandir/recolher)</i></summary>
   <br/>
   
   <table>
     <tr>
       <td width="50%">
         <h4>🚚 Plataforma Fretador — Enterprise Logistics SaaS</h4>
-        <p>Plataforma SaaS B2B de ponta a ponta para gestão de transporte fretado e mobilidade corporativa de grandes empresas privadas.</p>
+        <p>Plataforma SaaS B2B corporativa de ponta a ponta para gestão de transporte fretado, roteirização e mobilidade privada.</p>
         <ul>
-          <li><b>Arquitetura:</b> Backend em microsserviços com GraphQL de alta performance, desacoplamento de domínio e sincronização em tempo real.</li>
-          <li><b>Web & Operações:</b> Mesa operacional reativa em Next.js/React com Tailwind CSS, dashboards analíticos e roteirização otimizada.</li>
-          <li><b>Mobile:</b> Aplicativo móvel multiplataforma (React Native / Expo) para motoristas e passageiros com telemetria e operação offline-first.</li>
-          <li><b>Segurança & Nuvem:</b> AWS Cognito, Lambdas serverless, PostgreSQL transacional com isolamento multi-tenant seguro e alta conformidade de dados.</li>
+          <li><b>Papel:</b> Tech Lead & Arquiteto de Software.</li>
+          <li><b>Arquitetura:</b> Microsserviços com GraphQL de alta performance, sincronização em tempo real e isolamento multi-tenant robusto.</li>
+          <li><b>Web Operacional:</b> Mesa de operações em Next.js/React com Tailwind CSS e dashboards analíticos de alta densidade.</li>
+          <li><b>Mobile:</b> App móvel multiplataforma (React Native / Expo) com operação offline-first e telemetria para motoristas e passageiros.</li>
+          <li><b>Segurança & Cloud:</b> AWS Cognito, Lambdas serverless, PostgreSQL transacional com auditoria rigorosa de segurança.</li>
         </ul>
         <p>
           <img src="https://img.shields.io/badge/Status-Produ%C3%A7%C3%A3o%20Enterprise-00f2fe?style=flat-square" alt="Status" />
@@ -135,90 +138,31 @@ Possuo sólida experiência em todo o ciclo de vida de produtos digitais — des
       </td>
       <td width="50%">
         <h4>💈 QG-Barbearia — Multi-Tenant Service Platform</h4>
-        <p>Plataforma para agendamentos, fluxos operacionais e gestão automatizada de serviços comerciais.</p>
+        <p>Plataforma de gestão comercial, agendamentos automatizados e controle operacional.</p>
         <ul>
-          <li><b>Frontend:</b> Interface moderna, responsiva e focada na melhor conversão e experiência de agendamento do usuário.</li>
-          <li><b>Backend:</b> API transacional estruturada para escalabilidade e controle rigoroso de concorrência de horários e faturamento.</li>
+          <li><b>Interface:</b> Aplicação web moderna, ágil e responsiva com foco em conversão e experiência de autoatendimento.</li>
+          <li><b>Backend:</b> API transacional estruturada para alta concorrência de horários e faturamento.</li>
         </ul>
         <p>
-          <a href="https://github.com/GuilhermeMAG/qg-barbearia">
-            <img src="https://img.shields.io/badge/Reposit%C3%B3rio-GuilhermeMAG%2Fqg--barbearia-161b22?style=flat-square&logo=github" alt="Repo" />
-          </a>
-        </p>
-      </td>
-    </tr>
-  </table>
-</details>
-
-<details open>
-  <summary><b>🧠 Ecossistema de Inteligência Artificial & Developer Tooling</b> <i>(Clique para expandir/recolher)</i></summary>
-  <br/>
-
-  <table>
-    <tr>
-      <td width="50%">
-        <h4>⚡ <a href="https://github.com/GuilhermeMAG/codegraph">CodeGraph</a></h4>
-        <p>Grafo de conhecimento de código pré-indexado via AST (Abstract Syntax Tree) com sincronização automática em mudanças de código.</p>
-        <ul>
-          <li><b>Objetivo:</b> Redução radical no consumo de tokens e chamadas de ferramentas para agentes de IA (Claude Code, Gemini, Cursor, AntiGravity, Kiro).</li>
-          <li><b>Diferencial:</b> Análise estática profunda, rastreamento de saltos dinâmicos e execução 100% local e privada.</li>
-        </ul>
-        <p>
-          <img src="https://img.shields.io/badge/AI%20Tooling-Local%20First-00f2fe?style=flat-square" alt="AI Tooling" />
-          <img src="https://img.shields.io/badge/AST%20Parser-High%20Efficiency-7928ca?style=flat-square" alt="AST" />
-        </p>
-      </td>
-      <td width="50%">
-        <h4>💾 <a href="https://github.com/GuilhermeMAG/ai-memory">AI-Memory</a></h4>
-        <p>Solução corporativa de memória persistente de longo prazo para CLIs de codificação assistida por IA.</p>
-        <ul>
-          <li><b>Capacidades:</b> Handoff contínuo e sem atrito entre diferentes agentes e fornecedores de modelos LLM.</li>
-          <li><b>Persistência:</b> Indexação semântica de decisões de arquitetura e contexto evolutivo de repositórios.</li>
-        </ul>
-        <p>
-          <img src="https://img.shields.io/badge/Long--Term%20Memory-Vector%20Indexed-38ef7d?style=flat-square" alt="Memory" />
+          <img src="https://img.shields.io/badge/Status-Ativo-38ef7d?style=flat-square" alt="Status" />
+          <img src="https://img.shields.io/badge/Stack-React%20%7C%20Node.js%20%7C%20PostgreSQL-3178C6?style=flat-square" alt="Stack" />
         </p>
       </td>
     </tr>
     <tr>
       <td width="50%">
-        <h4>🛠️ <a href="https://github.com/GuilhermeMAG/agent-skills">Agent Skills</a> & <a href="https://github.com/GuilhermeMAG/skills">Skills</a></h4>
-        <p>Habilidades modulares com qualidade de produção projetadas especificamente para agentes autônomos de engenharia de software.</p>
+        <h4>📍 T3 Fretes Tracker — Telemetria & Rastreamento em Tempo Real</h4>
+        <p>Sistema de rastreamento e telemetria para logística com foco em baixa latência e atualização de posições em tempo real.</p>
         <ul>
-          <li>Testes automatizados, portões de code-review e automação de fluxos complexos de CI/CD.</li>
+          <li><b>Stack:</b> TypeScript, Next.js, APIs de geolocalização e streams de dados reativos.</li>
         </ul>
       </td>
       <td width="50%">
-        <h4>🌐 <a href="https://github.com/GuilhermeMAG/browser-harness">Browser Harness</a> & <a href="https://github.com/GuilhermeMAG/deepseek-harness">DeepSeek Harness</a></h4>
-        <p>Harnesses auto-recuperáveis (self-healing) que capacitam modelos LLM a executar tarefas completas no navegador e orquestração de plugins modulares.</p>
-      </td>
-    </tr>
-  </table>
-</details>
-
-<details>
-  <summary><b>🎮 Sistemas, Performance Extrema & Engenharia Reversa</b> <i>(Clique para expandir/recolher)</i></summary>
-  <br/>
-
-  <table>
-    <tr>
-      <td width="50%">
-        <h4>🚀 <a href="https://github.com/GuilhermeMAG/DLSS5oneclick">DLSS5oneclick</a></h4>
-        <p>Ferramenta desenvolvida em <b>Rust</b> (executável único) para injeção e setup automatizado de pipelines de neural-rendering (DLSS/ReShade/RenoDX) em jogos DX11 e DX12 para GPUs RTX.</p>
-      </td>
-      <td width="50%">
-        <h4>🖼️ <a href="https://github.com/GuilhermeMAG/upscayl">Upscayl</a></h4>
-        <p>Ferramenta open-source líder em upscaling e aprimoramento de imagens através de redes neurais convolucionais e modelos de super-resolução local.</p>
-      </td>
-    </tr>
-    <tr>
-      <td width="50%">
-        <h4>🔍 <a href="https://github.com/GuilhermeMAG/rea">REA (Reverse Engineer Anything)</a></h4>
-        <p>Engenharia reversa assistida por agentes, capaz de dissecar comportamento de aplicações até a inspeção profunda de binários nativos.</p>
-      </td>
-      <td width="50%">
-        <h4>📱 <a href="https://github.com/GuilhermeMAG/DroidDeck">DroidDeck</a></h4>
-        <p>Interface e experiência inspiradas no SteamOS adaptadas para dispositivos Android, priorizando usabilidade para gamers em mobile.</p>
+        <h4>🌐 GuiHub Solutions & Eventos</h4>
+        <p>Portal institucional e plataforma de soluções digitais e automação corporativa (<a href="http://guihub.com.br/">guihub.com.br</a>).</p>
+        <ul>
+          <li><b>Stack:</b> React, Next.js, integrações de APIs e pipelines de automação.</li>
+        </ul>
       </td>
     </tr>
   </table>
@@ -226,25 +170,107 @@ Possuo sólida experiência em todo o ciclo de vida de produtos digitais — des
 
 ---
 
-### 📊 Dashboard de Estatísticas & Métricas no GitHub
+### 🧰 Ferramentas de IA, Frameworks & Tooling no Dia a Dia
 
-<div align="center">
-  <table border="0">
+> *Frameworks, ecossistemas de código aberto e ferramentas avançadas que estudo, integro e utilizo no meu pipeline diário para desenvolvimento de agentes de IA, engenharia reversa e otimização de performance:*
+
+<details open>
+  <summary><b>🧠 Tooling de IA & Engenharia Agêntica (Utilizados & Integrados)</b> <i>(Clique para expandir/recolher)</i></summary>
+  <br/>
+
+  <table>
     <tr>
-      <td align="center" width="50%">
-        <img src="https://github-readme-stats.vercel.app/api?username=GuilhermeMAG&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00f2fe&icon_color=4facfe&text_color=c9d1d9&rank_icon=github" alt="Estatísticas do GitHub" width="100%" />
+      <td width="50%">
+        <h4>⚡ <a href="https://github.com/GuilhermeMAG/codegraph">CodeGraph</a></h4>
+        <p><b>Ferramenta Utilizada:</b> Knowledge graph de código pré-indexado via AST com auto-sync local.</p>
+        <ul>
+          <li><b>Uso Prático:</b> Redução de 80%+ no consumo de tokens e navegação contextual cirúrgica para agentes de IA (Claude Code, Gemini, Cursor, AntiGravity).</li>
+        </ul>
+        <p>
+          <img src="https://img.shields.io/badge/Uso-Engenharia%20de%20Contexto-00f2fe?style=flat-square" alt="Uso" />
+          <img src="https://img.shields.io/badge/Tipo-Ferramenta%20Integrada-7928ca?style=flat-square" alt="Tipo" />
+        </p>
       </td>
-      <td align="center" width="50%">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeMAG&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00f2fe&text_color=c9d1d9" alt="Linguagens mais utilizadas" width="100%" />
+      <td width="50%">
+        <h4>💾 <a href="https://github.com/GuilhermeMAG/ai-memory">AI-Memory</a></h4>
+        <p><b>Ferramenta Utilizada:</b> Camada de memória persistente semântica de longo prazo para CLIs de IA.</p>
+        <ul>
+          <li><b>Uso Prático:</b> Preservação de contexto de decisões arquiteturais e handoff contínuo entre diferentes provedores de LLMs.</li>
+        </ul>
+        <p>
+          <img src="https://img.shields.io/badge/Uso-Mem%C3%B3ria%20Sem%C3%A2ntica-38ef7d?style=flat-square" alt="Uso" />
+        </p>
       </td>
     </tr>
     <tr>
-      <td colspan="2" align="center" width="100%">
-        <br/>
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=GuilhermeMAG&theme=tokyonight&hide_border=true&background=0d1117&ring=00f2fe&fire=4facfe&currStreakLabel=00f2fe&sideLabels=c9d1d9&dates=8b949e" alt="Streak de Contribuições" width="100%" />
+      <td width="50%">
+        <h4>🛠️ <a href="https://github.com/GuilhermeMAG/agent-skills">Agent Skills</a> & <a href="https://github.com/GuilhermeMAG/skills">Skills</a></h4>
+        <p><b>Ferramentas Utilizadas:</b> Especificações e skills de engenharia de software para capacitar agentes autônomos com testes rigorosos, code review e automações.</p>
+      </td>
+      <td width="50%">
+        <h4>🌐 <a href="https://github.com/GuilhermeMAG/browser-harness">Browser Harness</a> & <a href="https://github.com/GuilhermeMAG/deepseek-harness">DeepSeek Harness</a></h4>
+        <p><b>Ferramentas Utilizadas:</b> Ambientes de execução resilientes para orquestração de plugins modulares e automação agêntica de browsers.</p>
       </td>
     </tr>
   </table>
+</details>
+
+<details>
+  <summary><b>🎮 Sistemas, Performance Extrema & Engenharia Reversa (Utilizados & Integrados)</b> <i>(Clique para expandir/recolher)</i></summary>
+  <br/>
+
+  <table>
+    <tr>
+      <td width="50%">
+        <h4>🔍 <a href="https://github.com/GuilhermeMAG/rea">REA (Reverse Engineer Anything)</a></h4>
+        <p><b>Ferramenta Utilizada:</b> Toolkit agêntico para dissecação de binários nativos e engenharia reversa de comportamento de aplicações.</p>
+      </td>
+      <td width="50%">
+        <h4>🖼️ <a href="https://github.com/GuilhermeMAG/upscayl">Upscayl</a></h4>
+        <p><b>Ferramenta Utilizada:</b> Modelos neurais locais e convolucionais para super-resolução e upscaling inteligente de imagens.</p>
+      </td>
+    </tr>
+    <tr>
+      <td width="50%">
+        <h4>🚀 <a href="https://github.com/GuilhermeMAG/DLSS5oneclick">DLSS5oneclick</a></h4>
+        <p><b>Ferramenta Utilizada:</b> Automação em Rust para injeção e teste de neural-rendering (DLSS/ReShade) em pipelines DirectX.</p>
+      </td>
+      <td width="50%">
+        <h4>☁️ <a href="https://github.com/GuilhermeMAG/floci">Floci</a></h4>
+        <p><b>Ferramenta Utilizada:</b> Emulador leve e local de serviços da AWS para desenvolvimento e testes acelerados sem custos de nuvem.</p>
+      </td>
+    </tr>
+  </table>
+</details>
+
+---
+
+### 📊 Indicadores de Arquitetura, Performance & Tecnologias em Produção
+
+<div align="center">
+
+> 💡 *Como Tech Lead e Arquiteto de Software, minha rotina diária de desenvolvimento e engenharia está concentrada predominantemente em **ambientes privados corporativos (SaaS Enterprise Fretador & Soluções Corporativas Privadas)**. Por motivos de conformidade, segurança e sigilo comercial, essas contribuições não aparecem nos contadores públicos genéricos.*
+
+<br/>
+
+#### 📐 Métricas de Excelência Técnica & Liderança
+<p align="center">
+  <img src="https://img.shields.io/badge/ARQUITETURA-Microsservi%C3%A7os%20%26%20GraphQL-00f2fe?style=for-the-badge&logo=graphql&logoColor=white&labelColor=161b22" alt="Arquitetura" />
+  <img src="https://img.shields.io/badge/DISPONIBILIDADE-Enterprise%20Multi--Tenant-7928ca?style=for-the-badge&logo=statuspal&logoColor=white&labelColor=161b22" alt="Disponibilidade" />
+  <img src="https://img.shields.io/badge/SEGURAN%C3%87A-Shift--Left%20%26%20Compliance-38ef7d?style=for-the-badge&logo=securityscorecard&logoColor=white&labelColor=161b22" alt="Segurança" />
+  <img src="https://img.shields.io/badge/IA%20AG%C3%8ANTICA-MCP%20%26%20AST%20Context%20Graphs-bf5af2?style=for-the-badge&logo=openai&logoColor=white&labelColor=161b22" alt="IA" />
+</p>
+
+#### ⚡ Distribuição Tecnológica Real em Produção
+
+```
+TypeScript / JavaScript ──── [██████████████████████████████] 45% (Full-Stack, GraphQL & Web/Mobile)
+Node.js, APIs & Backend ──── [█████████████████             ] 25% (Microsserviços, PostgreSQL & Redis)
+React, Next.js & Mobile ──── [██████████                    ] 15% (Mesa Operacional & Apps Expo)
+Cloud, DevOps & Infra   ──── [███████                       ] 10% (AWS Lambdas, Cognito, Docker, CI/CD)
+Python, Rust, C++ & IA  ──── [███                           ]  5% (Agentes, Tooling AST & Performance)
+```
+
 </div>
 
 ---
