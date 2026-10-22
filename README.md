@@ -1,4 +1,4 @@
-<div align="center">
+﻿<div align="center">
 
   <!-- BANNER PRINCIPAL COM GRADIENTE E IDENTIDADE VISUAL -->
   <a href="http://guihub.com.br/">
@@ -21,10 +21,13 @@
 
   <!-- CANAIS DE CONTATO RÁPIDOS -->
   <p align="center">
-    <a href="http://guihub.com.br/" target="_blank">
-      <img src="https://img.shields.io/badge/WEBSITE-guihub.com.br-00f2fe?style=for-the-badge&logo=googlechrome&logoColor=0d1117&labelColor=161b22" alt="Website" />
+    <a href="https://guilhermemag.github.io" target="_blank">
+      <img src="https://img.shields.io/badge/PORTF%C3%93LIO-guilhermemag.github.io-00f2fe?style=for-the-badge&logo=safari&logoColor=0d1117&labelColor=161b22" alt="Portfólio Web" />
     </a>
-    <a href="https://linkedin.com/in/guilherme-casagrande" target="_blank">
+    <a href="http://guihub.com.br/" target="_blank">
+      <img src="https://img.shields.io/badge/WEBSITE-guihub.com.br-7928ca?style=for-the-badge&logo=googlechrome&logoColor=ffffff&labelColor=161b22" alt="Website" />
+    </a>
+    <a href="https://www.linkedin.com/in/guilherme-casagrande-771a27160/" target="_blank">
       <img src="https://img.shields.io/badge/LINKEDIN-Conectar-0a66c2?style=for-the-badge&logo=linkedin&logoColor=ffffff&labelColor=161b22" alt="LinkedIn" />
     </a>
     <a href="mailto:g.casagrande@uni9.edu.br">
@@ -287,7 +290,7 @@ Vamos conversar sobre arquitetura de software, inovação em agentes de IA ou no
   <img src="https://img.shields.io/badge/Website_Oficial-guihub.com.br-00f2fe?style=for-the-badge&logo=googlechrome&logoColor=0d1117" alt="Website" />
 </a>
 &nbsp;
-<a href="https://linkedin.com/in/guilherme-casagrande" target="_blank">
+<a href="https://www.linkedin.com/in/guilherme-casagrande-771a27160/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-Guilherme_Casagrande-0077b5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
 &nbsp;
