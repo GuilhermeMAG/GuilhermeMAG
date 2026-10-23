@@ -1,7 +1,7 @@
-﻿<div align="center">
+<div align="center">
 
   <!-- BANNER PRINCIPAL COM GRADIENTE E IDENTIDADE VISUAL -->
-  <a href="http://guihub.com.br/">
+  <a href="https://guilhermemag.github.io/">
     <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,2,9,20&height=220&section=header&text=Guilherme%20Casagrande&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Tech%20Lead%20%E2%80%A2%20AI%20%26%20Full-Stack%20Architect%20%E2%80%A2%20Software%20Engineer&descSize=19&descAlignY=62&descColor=00f2fe" width="100%" alt="Guilherme Casagrande"/>
   </a>
 
@@ -24,8 +24,8 @@
     <a href="https://guilhermemag.github.io" target="_blank">
       <img src="https://img.shields.io/badge/PORTF%C3%93LIO-guilhermemag.github.io-00f2fe?style=for-the-badge&logo=safari&logoColor=0d1117&labelColor=161b22" alt="Portfólio Web" />
     </a>
-    <a href="http://guihub.com.br/" target="_blank">
-      <img src="https://img.shields.io/badge/WEBSITE-guihub.com.br-7928ca?style=for-the-badge&logo=googlechrome&logoColor=ffffff&labelColor=161b22" alt="Website" />
+    <a href="https://wa.me/5511951464881" target="_blank">
+      <img src="https://img.shields.io/badge/WHATSAPP-Mensagem-25d366?style=for-the-badge&logo=whatsapp&logoColor=ffffff&labelColor=161b22" alt="WhatsApp" />
     </a>
     <a href="https://www.linkedin.com/in/guilherme-casagrande-771a27160/" target="_blank">
       <img src="https://img.shields.io/badge/LINKEDIN-Conectar-0a66c2?style=for-the-badge&logo=linkedin&logoColor=ffffff&labelColor=161b22" alt="LinkedIn" />
@@ -310,8 +310,12 @@ Vamos conversar sobre arquitetura de software, inovação em agentes de IA ou no
 
 <br/>
 
-<a href="http://guihub.com.br/" target="_blank">
-  <img src="https://img.shields.io/badge/Website_Oficial-guihub.com.br-00f2fe?style=for-the-badge&logo=googlechrome&logoColor=0d1117" alt="Website" />
+<a href="https://guilhermemag.github.io" target="_blank">
+  <img src="https://img.shields.io/badge/Portf%C3%B3lio_Web-guilhermemag.github.io-00f2fe?style=for-the-badge&logo=safari&logoColor=0d1117" alt="Portfólio Web" />
+</a>
+&nbsp;
+<a href="https://wa.me/5511951464881" target="_blank">
+  <img src="https://img.shields.io/badge/WhatsApp-Conversar-25d366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
 </a>
 &nbsp;
 <a href="https://www.linkedin.com/in/guilherme-casagrande-771a27160/" target="_blank">
