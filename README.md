@@ -30,7 +30,7 @@
     <a href="https://www.linkedin.com/in/guilherme-casagrande-771a27160/" target="_blank">
       <img src="https://img.shields.io/badge/LINKEDIN-Conectar-0a66c2?style=for-the-badge&logo=linkedin&logoColor=ffffff&labelColor=161b22" alt="LinkedIn" />
     </a>
-    <a href="mailto:g.casagrande@uni9.edu.br">
+    <a href="mailto:guihubmag@gmail.com">
       <img src="https://img.shields.io/badge/E--MAIL-Contato-ea4335?style=for-the-badge&logo=gmail&logoColor=ffffff&labelColor=161b22" alt="Email" />
     </a>
     <a href="https://github.com/GuilhermeMAG?tab=repositories">
@@ -334,8 +334,8 @@ Vamos conversar sobre arquitetura de software, inovação em agentes de IA ou no
   <img src="https://img.shields.io/badge/LinkedIn-Guilherme_Casagrande-0077b5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
 &nbsp;
-<a href="mailto:g.casagrande@uni9.edu.br">
-  <img src="https://img.shields.io/badge/E--mail_Profissional-g.casagrande@uni9.edu.br-ea4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+<a href="mailto:guihubmag@gmail.com">
+  <img src="https://img.shields.io/badge/E--mail_Profissional-guihubmag@gmail.com-ea4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
 </a>
 &nbsp;
 <a href="https://github.com/GuilhermeMAG">
