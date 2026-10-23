@@ -276,17 +276,15 @@ Possuo sólida experiência em todo o ciclo de vida de produtos digitais — des
 
 <div align="center">
 
-  <!-- CARDS DINÂMICOS DE ESTATÍSTICAS E STREAK -->
-  <table border="0">
-    <tr>
-      <td align="center" width="50%">
-        <img src="https://github-readme-stats.vercel.app/api?username=GuilhermeMAG&show_icons=true&hide_rank=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00f2fe&icon_color=4facfe&text_color=c9d1d9" alt="Estatísticas do GitHub" width="100%" />
-      </td>
-      <td align="center" width="50%">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=GuilhermeMAG&theme=tokyonight&hide_border=true&background=0d1117&ring=00f2fe&fire=4facfe&currStreakLabel=00f2fe&sideLabels=c9d1d9&dates=8b949e" alt="Streak de Contribuições" width="100%" />
-      </td>
-    </tr>
-  </table>
+  <!-- STREAK E TOTAL DE CONTRIBUIÇÕES (INCLUI ATIVIDADE PRIVADA) -->
+  <p align="center">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=GuilhermeMAG&theme=tokyonight&hide_border=true&background=0d1117&ring=00f2fe&fire=4facfe&currStreakLabel=00f2fe&sideLabels=c9d1d9&dates=8b949e" alt="Streak e Total de Contribuições" width="65%" />
+  </p>
+
+  <!-- INFOGRÁFICO DE ENGENHARIA GERADO AUTOMATICAMENTE VIA GITHUB ACTIONS -->
+  <p align="center">
+    <img src="github-metrics.svg" alt="Métricas e Atividade de Engenharia" width="85%" />
+  </p>
 
   <br/>
 
