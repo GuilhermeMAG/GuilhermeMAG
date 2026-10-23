@@ -276,7 +276,21 @@ Possuo sólida experiência em todo o ciclo de vida de produtos digitais — des
 
 <div align="center">
 
-> 💡 *Como Tech Lead e Arquiteto de Software, minha rotina diária de desenvolvimento e engenharia está concentrada predominantemente em **ambientes privados corporativos (SaaS Enterprise Fretador & Soluções Corporativas Privadas)**. Por motivos de conformidade, segurança e sigilo comercial, essas contribuições não aparecem nos contadores públicos genéricos.*
+  <!-- CARDS DINÂMICOS DE ESTATÍSTICAS E STREAK -->
+  <table border="0">
+    <tr>
+      <td align="center" width="50%">
+        <img src="https://github-readme-stats.vercel.app/api?username=GuilhermeMAG&show_icons=true&hide_rank=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00f2fe&icon_color=4facfe&text_color=c9d1d9" alt="Estatísticas do GitHub" width="100%" />
+      </td>
+      <td align="center" width="50%">
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=GuilhermeMAG&theme=tokyonight&hide_border=true&background=0d1117&ring=00f2fe&fire=4facfe&currStreakLabel=00f2fe&sideLabels=c9d1d9&dates=8b949e" alt="Streak de Contribuições" width="100%" />
+      </td>
+    </tr>
+  </table>
+
+  <br/>
+
+> 💡 *Como Tech Lead e Arquiteto de Software, minha rotina diária de desenvolvimento e engenharia está concentrada predominantemente em **ambientes privados corporativos (SaaS Enterprise Fretador & Soluções Corporativas Privadas)**. Por motivos de conformidade, segurança e sigilo comercial, grande parte dessas contribuições privadas refletem no gráfico nativo do perfil.*
 
 <br/>
 
