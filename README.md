@@ -154,15 +154,13 @@ Possuo sólida experiência em todo o ciclo de vida de produtos digitais — des
     </tr>
     <tr>
       <td width="50%">
-        <h4>🌐 NLogika — Portal SaaS Core Platform (Monorepo)</h4>
+        <h4>🌐 Portal SaaS Core Platform (Monorepo)</h4>
         <p>Application Shell e chassi arquitetural básico para desenvolvimento e acoplamento de todos os módulos SaaS corporativos da empresa.</p>
         <ul>
-          <li><b>Papel:</b> CTO & Liderança Técnica.</li>
           <li><b>Conformidade & Isolamento:</b> Segurança absoluta de dados e isolamento estrito de tenants para total conformidade com a LGPD.</li>
           <li><b>Arquitetura:</b> Monorepo escalável, reuso de código e governança de custos em nuvem.</li>
         </ul>
         <p>
-          <img src="https://img.shields.io/badge/Papel-CTO%20%7C%20Lideran%C3%A7a-00f2fe?style=flat-square" alt="CTO" />
           <img src="https://img.shields.io/badge/Stack-Monorepo%20%7C%20Multi--Tenant%20%7C%20LGPD-7928ca?style=flat-square" alt="Stack" />
         </p>
       </td>
